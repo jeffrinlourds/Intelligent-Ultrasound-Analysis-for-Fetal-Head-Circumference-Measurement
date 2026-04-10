@@ -210,7 +210,7 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Jeffrin Lourds (Jimlan7)**
+**Jeffrin Lourds**
 Deep Learning | Medical Imaging | Computer Vision
 
 ---
