@@ -216,7 +216,3 @@ Deep Learning | Medical Imaging | Computer Vision
 This project is licensed under the **MIT License**
 
 ---
-
-* Add **Google Drive model download link**
-
-Just tell me 👍
